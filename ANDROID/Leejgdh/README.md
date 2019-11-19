@@ -10,3 +10,13 @@
 ##### Session_1 / HelloWorld Project 만들기
 
 ###### https://youtu.be/MBoiwKEeST8
+
+
+##### Session_2 / UI Component 간단 설명
+
+###### https://youtu.be/xClL_eWMQK8
+
+
+##### Session_2_1 / 스토리보드 만들기 (책사랑)
+
+###### https://youtu.be/8eR8NRJ21qc
